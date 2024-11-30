@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kindkartApp/static/css/main.087662c9.css",
+    "main.js": "/kindkartApp/static/js/main.fd022b56.js",
+    "static/media/logo.png": "/kindkartApp/static/media/logo.94b18a57f8d53173a2f9.png",
+    "index.html": "/kindkartApp/index.html",
+    "main.087662c9.css.map": "/kindkartApp/static/css/main.087662c9.css.map",
+    "main.fd022b56.js.map": "/kindkartApp/static/js/main.fd022b56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.087662c9.css",
+    "static/js/main.fd022b56.js"
+  ]
+}
